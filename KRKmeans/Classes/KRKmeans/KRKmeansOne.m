@@ -61,7 +61,7 @@
     float _minValue = [_sources minimum];
     //自訂中位數
     //float _midValue = 45.0f;
-    float _midValue _customMedian;
+    float _midValue = _customMedian;
     if( !self.useCustomMedian )
     {
         //用程式找出中位數
